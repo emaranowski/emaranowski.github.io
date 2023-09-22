@@ -10,7 +10,7 @@
 /* CUSTOM STYLES */
 
 .bold {
-	font-weight: 500;
+	font-weight: 500 !important;
 }
 
 #skills-spans {
