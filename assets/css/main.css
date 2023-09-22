@@ -230,10 +230,10 @@ i {
 }
 
 p {
-	color: #434343;
-	font-size: 0.8em;
-	line-height: 95%;
-	margin: 0 0 2em 0;
+	color: #3d3d3d !important;
+	font-size: 0.85em;
+	line-height: 97%;
+	margin: 0 0 1.9em 0;
 }
 
 h1,
