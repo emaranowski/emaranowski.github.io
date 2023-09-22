@@ -20,6 +20,15 @@
 	gap: 10px;
 }
 
+#resume-link {
+	color: #458db6 !important;
+	transition: border-bottom 0.2s ease-in-out !important;
+}
+
+#resume-link:hover {
+	border-bottom: dotted 1px !important;
+}
+
 /* MOSTLY ORIGINAL STYLES */
 
 html,
@@ -220,9 +229,10 @@ a {
 	-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 	-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 	transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
-	border-bottom: dotted 1px;
+	/* border-bottom: dotted 1px; */
 	/* color: #49bf9d; */
 	color: #458db6;
+	/* color: #e18229; */
 	text-decoration: none;
 }
 
