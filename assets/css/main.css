@@ -13,6 +13,15 @@
 	font-weight: 500;
 }
 
+#skills-spans {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	gap: 10px;
+}
+
+/* MOSTLY ORIGINAL STYLES */
+
 html,
 body,
 div,
