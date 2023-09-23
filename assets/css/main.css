@@ -13,11 +13,19 @@
 	font-weight: 500 !important;
 }
 
+.education-spans {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	gap: 10px;
+	font-size: 1em;
+}
+
 .skills-spans {
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
-	gap: 20px;
+	gap: 10px;
 	font-size: 1em;
 }
 
