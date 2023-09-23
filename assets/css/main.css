@@ -38,7 +38,7 @@
 #resume-link {
 	/* color: #458db6 !important; */
 	color: #4ca8c9 !important;
-	transition: border-bottom 0.5s !important;
+	transition: border-bottom 1s !important;
 }
 
 #resume-link:hover {
@@ -48,11 +48,11 @@
 .link-effect {
 	border-bottom: dotted 1px !important;
 	border-color: none;
-	transition: border-color 0.5s !important;
+	transition: border-color 1s !important;
 }
 
 .link-effect:hover {
-	border-color: 4ca8c9;
+	border-color: #4ca8c9;
 	/* border-bottom: dotted 1px !important; */
 }
 
