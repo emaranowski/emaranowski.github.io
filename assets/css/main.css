@@ -49,6 +49,8 @@
 	color: #4ca8c9 !important;
 	border: dotted 1px !important;
 	border-color: transparent;
+	padding: 5px 8px;
+	border-radius: 50%;
 	transition: border-color 1s !important;
 }
 
