@@ -46,8 +46,9 @@
 } */
 
 .link-effect {
+	color: #4ca8c9 !important;
 	border: dotted 1px !important;
-	border-color: none;
+	border-color: transparent;
 	transition: border-color 1s !important;
 }
 
