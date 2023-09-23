@@ -20,21 +20,12 @@
 	gap: 12px;
 }
 
-.education-spans span {
-	font-size: 1.18em;
-}
-
-.skills-spans {
+.skill-spans {
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
 	gap: 10px;
-	/* font-size: 1em; */
 }
-
-/* .skills-spans span {
-	font-size: 1.18em;
-} */
 
 #resume-link {
 	/* color: #458db6 !important; */
