@@ -21,7 +21,7 @@
 }
 
 .education-spans span {
-	font-size: 1.18em;
+	font-size: 1.18em !important;
 }
 
 .skill-spans {
