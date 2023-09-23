@@ -17,11 +17,17 @@
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
-	gap: 10px;
+	gap: 20px;
+	font-size: 1.18em;
+}
+
+#skills-spans span {
+	font-size: 1.18em;
 }
 
 #resume-link {
-	color: #458db6 !important;
+	/* color: #458db6 !important; */
+	color: #46AEE2 !important;
 	transition: border-bottom 0.2s ease-in-out !important;
 }
 
@@ -255,9 +261,9 @@ i {
 }
 
 p {
-	color: #595959 !important;
+	/* color: #676767 !important; */
 	font-size: 1.18em;
-	line-height: 121%;
+	line-height: 125%;
 	margin: 0 0 1.5em 0;
 }
 
