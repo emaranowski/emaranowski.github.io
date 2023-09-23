@@ -13,7 +13,7 @@
 	font-weight: 500 !important;
 }
 
-.education-spans {
+.education-spans span {
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
