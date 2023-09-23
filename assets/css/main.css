@@ -13,6 +13,10 @@
 	font-weight: 500 !important;
 }
 
+.tightening-spacer {
+	margin: 20px 0;
+}
+
 .education-spans {
 	display: flex;
 	flex-direction: row;
