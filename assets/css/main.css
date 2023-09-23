@@ -46,7 +46,7 @@
 } */
 
 .link-effect {
-	border-bottom: dotted 1px !important;
+	border: dotted 1px !important;
 	border-color: none;
 	transition: border-color 1s !important;
 }
