@@ -35,15 +35,15 @@
 	gap: 10px;
 }
 
-#resume-link {
-	/* color: #458db6 !important; */
+/* #resume-link {
+	color: #458db6 !important;
 	color: #4ca8c9 !important;
 	transition: border-bottom 1s !important;
-}
+} */
 
-#resume-link:hover {
+/* #resume-link:hover {
 	border-bottom: dotted 1px !important;
-}
+} */
 
 .link-effect {
 	border-bottom: dotted 1px !important;
