@@ -44,6 +44,12 @@
 	border-bottom: dotted 1px !important;
 }
 
+.work-item-header {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
 /* MOSTLY ORIGINAL STYLES */
 
 html,
