@@ -47,16 +47,11 @@
 
 .link-effect {
 	color: #4ca8c9 !important;
-	border: dotted 1px !important;
-	border-color: #4ca8c900;
-	padding: 5px 8px;
-	border-radius: 10%;
-	transition: border-color 1s !important;
+	transition: border-bottom 1s !important;
 }
 
 .link-effect:hover {
-	border-color: #4ca8c9;
-	/* border-bottom: dotted 1px !important; */
+	border-bottom: dotted 1px !important;
 }
 
 /* MOSTLY ORIGINAL STYLES */
