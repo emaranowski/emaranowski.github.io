@@ -41,7 +41,16 @@
 }
 
 .link-effect:hover {
-	border-bottom: dotted 1px !important;
+	border-bottom: dashed 1px !important;
+}
+
+.icon-effect {
+	color: #787878 !important;
+	transition: color 0.2s ease-in-out !important;
+}
+
+.icon-effect:hover {
+	color: #4ca8c9 !important;
 }
 
 .work-item-header {
