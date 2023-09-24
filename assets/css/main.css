@@ -41,11 +41,12 @@
 }
 
 .link-effect:hover {
-	border-bottom: dashed 1px !important;
+	border-bottom: dashed .5px !important;
 }
 
 .icon-effect {
-	color: #787878 !important;
+	color: #b2b2b2 !important;
+	font-size: 1.18em;
 	transition: color 0.2s ease-in-out !important;
 }
 
