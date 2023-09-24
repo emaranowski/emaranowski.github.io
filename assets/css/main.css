@@ -47,7 +47,7 @@
 
 .link-effect {
 	color: #4ca8c9 !important;
-	transition: border-bottom 1s !important;
+	transition: border-bottom !important;
 }
 
 .link-effect:hover {
